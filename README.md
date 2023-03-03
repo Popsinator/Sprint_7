@@ -1,3 +1,3 @@
-��#� �S�p�r�i�n�t�_�7�
-�
+Sprint#7
+
 Учебный проект по api - тестированию учебной странички "http://qa-scooter.praktikum-services.ru".
